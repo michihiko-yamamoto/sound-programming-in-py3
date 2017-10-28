@@ -1,0 +1,15 @@
+# Mac
+.DS_Store
+
+# vim
+*~
+# emacs
+*.swp
+
+# vscode
+.vscode/*
+
+# IntelliJ
+out/
+.idea/
+.idea_modules/
